@@ -1,6 +1,9 @@
 # ‘NYC Citibike’ Bike sharing Analysis using Tableau
 ## Overview of the Analysis
 The objective of this project is to analyze how NYC bike sharing business works and creating a similar business proposal for any other city in the United States considering various dynamics of the cities.
+
+[Link to dashboard](https://public.tableau.com/app/profile/biresh.kundu/viz/NYC_Citibike_Challenge_16318263612610/Module14-Challenge-Story?publish=yes)
+
 ## Results
 The outcome of the analysis is provided below. 
 ### Checkout Times in NYC Citibikes:
